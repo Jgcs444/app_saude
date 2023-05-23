@@ -1,4 +1,4 @@
-package com.fcrysthian.myfitnesstraker
+package com.jgcs.myfitnesstraker
 
 import org.junit.Test
 
